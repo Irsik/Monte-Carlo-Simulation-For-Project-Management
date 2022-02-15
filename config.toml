@@ -1,4 +1,0 @@
-baseURL = 'https://irsik.github.io/Monte-Carlo-Simulation-For-Project-Management/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "hugo-geekdoc"
