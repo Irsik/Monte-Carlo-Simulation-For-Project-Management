@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /tags/*
+
+Sitemap: https://irsik.github.io/Monte_Carlo_and_Linear_Regression_For_PM/sitemap.xml
