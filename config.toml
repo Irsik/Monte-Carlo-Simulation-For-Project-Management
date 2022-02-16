@@ -1,4 +1,4 @@
-baseURL = "https://irsik.github.io/Monte-Carlo-Simulation-For-Project-Management"
+baseURL = "https://irsik.github.io/Monte_Carlo_and_Linear_Regression_For_PM"
 title = "Monte Carlo & Linear Regression Documentation"
 theme = "hugo-geekdoc"
 
