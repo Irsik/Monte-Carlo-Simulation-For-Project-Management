@@ -1,7 +1,12 @@
-# How to use Jupyter notebooks?
+---
+title: "Jupyter Notebooks"
+draft: false
+---
+
+## How to use Jupyter notebooks?
 Jupiter Notebooks are a powerful tool to write and iterate on Python code for data anaylysis. It lets run lines of code one at a time.
 
-### To install Jupyter Notebooks
+## To install Jupyter Notebooks
 
 The fastest way to install Jupyter Notebooks (assuming you have Python3 already installed), is to run
 
