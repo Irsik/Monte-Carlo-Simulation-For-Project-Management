@@ -1,10 +1,8 @@
 ---
-title: "Jupyter Notebooks"
+weight: 1
+title: "Installation"
 draft: false
 ---
-
-## How to use Jupyter notebooks?
-Jupiter Notebooks are a powerful tool to write and iterate on Python code for data anaylysis. It lets run lines of code one at a time.
 
 ## To install Jupyter Notebooks
 
@@ -26,5 +24,6 @@ jupyter notebook
 ```
 
 You will see the application open in your default browser using the following address: http://localhost:8888
+
 
 A more detailed guide on how to use Jupyter notebooks and how to work with them, can be found [here](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks)
